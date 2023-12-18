@@ -1,0 +1,59 @@
+.father {
+    width: 100%;
+    height: 300px;
+    background-color:brown;
+    text-align: center;
+
+}
+h3{
+    padding-top: 1%;
+}
+
+.buttons{
+    margin-top: 5%;
+}
+
+.whatsapp{
+    background-image: url(../../../assets/iconosRedes/whatsapp.png);
+    background-repeat:no-repeat;
+        height:60px;
+        width:70px;
+        background-size: 50px 50px;
+        background-position:center;
+        border-radius: 8px;
+}
+.facebook{
+    background-image: url(../../../assets/iconosRedes/facebook.png);
+    background-repeat:no-repeat;
+        height:60px;
+        width:70px;
+        background-size: 50px 50px;
+        background-position:center;
+        border-radius: 8px;
+}
+.instagram{
+    background-image: url(../../../assets/iconosRedes/instagram.png);
+    background-repeat:no-repeat;
+        height:60px;
+        width:70px;
+        background-size: 50px 50px;
+        background-position:center;
+        border-radius: 8px;
+}
+.correo{
+    background-image: url(../../../assets/iconosRedes/correo-electronico.png);
+    background-repeat:no-repeat;
+        height:60px;
+        width:70px;
+        background-size: 50px 50px;
+        background-position:center;
+        border-radius: 8px;
+}
+
+h4{
+    margin-top: 5%;
+}
+
+button{
+    margin-left: 1%;
+    }

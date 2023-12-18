@@ -1,14 +1,14 @@
-.titulo{
+.father{
+    width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 100vh;
 }
 
 .contenedor{
     display: flex;
-    width: 50%;
+    width: 100%;
     flex-direction: column;
     align-items: center;
     justify-content: center;
@@ -29,10 +29,8 @@ button{
 margin-left: 1%;
 }
 
-.footer{
+app-footer{
     width: 100%;
-    height: 50%;
-    background-color:brown;
-    text-align: center;
-
 }
+
+

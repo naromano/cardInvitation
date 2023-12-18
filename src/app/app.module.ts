@@ -7,6 +7,9 @@ import { HomeComponent } from './components/home/home.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatSlideToggleModule } from '@angular/material/slide-toggle';
 import {MatButtonModule} from '@angular/material/button';
+import { FooterComponent } from './components/footer/footer.component';
+import { WeddingComponent } from './components/wedding/wedding.component';
+import { BirthdayComponent } from './components/birthday/birthday.component';
 
 
 
@@ -14,6 +17,9 @@ import {MatButtonModule} from '@angular/material/button';
   declarations: [
     AppComponent,
     HomeComponent,
+    FooterComponent,
+    WeddingComponent,
+    BirthdayComponent,
   ],
   imports: [
     BrowserModule,
