@@ -1,0 +1,38 @@
+.titulo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.contenedor{
+    display: flex;
+    width: 50%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+img{
+    width: 60%;
+}
+
+.buttons{
+    width: 50%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+button{
+margin-left: 1%;
+}
+
+.footer{
+    width: 100%;
+    height: 50%;
+    background-color:brown;
+    text-align: center;
+
+}
